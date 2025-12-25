@@ -1,0 +1,34 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+*.log
+
+# Dependency files
+go.sum
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Database and data files
+*.db
+data/
+
+# Config files (if sensitive)
+config.yaml
+
+# Node modules (if you use JS tooling)
+node_modules/
+
+# Others
+linkedin-automation.exe
