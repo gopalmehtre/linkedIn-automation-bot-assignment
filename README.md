@@ -477,12 +477,6 @@ This tool is provided for **educational purposes only** to demonstrate:
 - Send spam or unsolicited messages
 - Harvest user data without consent
 
-The authors are not responsible for any misuse of this software or any resulting account suspensions, bans, or legal actions.
-
-## License
-
-MIT License - See LICENSE file for details.
-
 ---
 
-Built with ❤️ for educational purposes using Go + Rod
+This is an assesment project.
